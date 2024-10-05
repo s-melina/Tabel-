@@ -18,6 +18,7 @@
 </nav>
 
 <div class="container-md">
+
     <table class="table table-hover">
         <thead>
         <tr class="table-dark">
@@ -29,6 +30,7 @@
             <th scope="col">Open</th>
         </tr>
         </thead>
+
         <tbody>
         <tr>
             <th scope="row">1</th>
