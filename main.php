@@ -20,7 +20,7 @@
 <div class="container-md">
     <table class="table table-hover">
         <thead>
-        <tr class="table-warning">
+        <tr class="table-dark">
             <th scope="col">No.</th>
             <th scope="col">Category</th>
             <th scope="col">Time Taken</th>
